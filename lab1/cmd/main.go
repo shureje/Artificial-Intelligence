@@ -157,7 +157,7 @@ func (g *Game) Draw(screen *ebiten.Image) {
 func NewGame() *Game {
 	g := &Game{
 		Cellsize:      48.0,
-		StartPosition: Position{1, 3},
+		StartPosition: Position{0, 2},
 	}
 	for i := 0; i < 8; i++ {
 		for j := 0; j < 8; j++ {

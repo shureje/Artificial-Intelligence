@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOvqvFGCVf0=",
+  "success": true,
+  "projectFilePath": "F:\\ВУЗ\\3 курс\\1 семестр\\Artifitial-Intelleigence\\lab2-3\\EilerSolve\\EilerSolve.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
